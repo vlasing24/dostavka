@@ -1,0 +1,17 @@
+{
+  "name": "База Доставок",
+  "short_name": "Доставки",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#ea580c",
+  "description": "Управление базой клиентов и доставок",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjIwIiBmaWxsPSIjZWE1ODBjIi8+PHBhdGggZD0iTTMwIDQwIEw1MCAyMCBMNzAgNDAgTDUwIDYwIFoiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTQ1IDUwIEw2NSA3MCBMNDUgOTAgTDI1IDcwIFoiIGZpbGw9IndoaXRlIi8+PC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
